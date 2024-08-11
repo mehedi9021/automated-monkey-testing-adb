@@ -27,7 +27,7 @@ Run the Monkey test on com.foodi.userdev with 10,000 random events using the com
 4. Run Monkey Test with 500 Events and Save Log
 Execute this command to run the Monkey test with 500 random events and save the output to a specified log file:
 
-`adb shell monkey -p com.foodi.userdev -v 500 > C:\Users\TN-99286\Desktop\New_folder\monkey_log.txt`
+`adb shell monkey -p com.foodi.userdev -v 500 > C:\Users\TN-99286\Desktop\Report\monkey_log.txt`
 
 5. Capture Logcat Output
 To capture the logcat output during testing, use this command. It logs all system messages, including stack traces if the app crashes:
