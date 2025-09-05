@@ -1,4 +1,4 @@
-# automated-monkey-testing-with-adb
+# automated-monkey-testing-adb
 
 ## Monkey Testing Commands for com.foodi.userdev
 This repository contains a set of commands for conducting Monkey Testing on the Android application package com.foodi.userdev. Monkey Testing is a stress test that generates a large number of random events to simulate user interactions with the app, helping to identify crashes or unexpected behavior.
