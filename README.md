@@ -17,7 +17,7 @@ Use the following command to list all devices or emulators currently connected t
 2. List Installed Packages
 This command lists all installed packages on the connected device. This can help confirm whether com.foodi.userdev is installed:
 
-`adb shell pm list packages`
+```adb shell pm list packages```
 
 3. Run Monkey Test with 10,000 Events
 Run the Monkey test on com.foodi.userdev with 10,000 random events using the command below:
